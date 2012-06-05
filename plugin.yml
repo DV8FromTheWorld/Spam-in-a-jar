@@ -1,0 +1,7 @@
+author: DV8FromTheWorld
+database: false
+description: An MOTD plugin that ONLY does MOTD's
+main: dv8fromtheworld.spam.SpamInAJar
+name: Spam in a .jar
+startup: postworld
+version: '1.0'
